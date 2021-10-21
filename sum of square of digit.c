@@ -7,7 +7,7 @@ int main()
     int n;
     printf("enter a number");
     scanf("%d",&n);
-    printf("sum of digit is %d",square(n));
+    printf("sum is %d",square(n));
     return 0;
 }
 int square(int n)
